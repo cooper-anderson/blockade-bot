@@ -1,0 +1,18 @@
+{
+  "name": "blockade-bot",
+  "productName": "Blockade Bot",
+  "version": "0.1.0",
+  "main": "index.js",
+  "dependencies": {
+    "devtool": "latest",
+    "discord.js": "^11.1.0"
+  },
+  "scripts": {
+    "start": "devtool index.js",
+    "nogui": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cooper-anderson/blockade-bot.git"
+  }
+}
